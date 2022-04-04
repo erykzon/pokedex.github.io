@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto Mono', monospace;
-  background-image: url("../Pokedex/img/fondo.jpg");
+  background-image: url("./img/fondo.jpg");
   background-position: right 100vmax, top 100vmax;
 }
 
