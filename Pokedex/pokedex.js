@@ -76,7 +76,7 @@ const pokeStats = (stats) =>{
 }
 
 const noEncontrado = ()=> {
-    pokePhoto.src= "../img/psyduck.png";
+    pokePhoto.src= "./img/psyduck.png";
     types.innerHTML='';
     moves.innerHTML='';
     stati.innerHTML='';
